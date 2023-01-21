@@ -13,7 +13,7 @@ const Post = () => {
       <CardHeader
         avatar={
           <Avatar sx={{ bgcolor: "red" }} aria-label="recipe">
-            R
+            D
           </Avatar>
         }
         action={
@@ -21,8 +21,8 @@ const Post = () => {
             <MoreVert />
           </IconButton>
         }
-        title="Shrimp and Chorizo Paella"
-        subheader="September 14, 2016"
+        title="Dennis Masiror"
+        subheader="January 21, 2023"
       />
       <CardMedia
         component="img"
